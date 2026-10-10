@@ -3,7 +3,7 @@ package org.example;
 
 import java.util.Scanner;
 
-    public class reto3 {
+    public class Reto3 {
         public static void main(String[] args) {
             Scanner consola = new Scanner(System.in);
 
@@ -32,4 +32,3 @@ import java.util.Scanner;
             System.out.println("monto final a pagar: $" + precioFinal);
         }
     }
-}
