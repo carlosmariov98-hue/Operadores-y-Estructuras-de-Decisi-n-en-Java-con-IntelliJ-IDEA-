@@ -9,8 +9,8 @@ public class Main {
     static final double PUNTAJE_INICIAL = 100.0;
     static final double BONO_POR_INTENTO = 12.5;
     static final String[] BANCO_PALABRAS = {
-            "JAVA", "BUCLE", "CADENA", "ENTERO", "CLASE",
-            "OBJETO", "METODO", "BOOLEANO", "COMPILADOR", "VARIABLE"
+            "JAVA", "CABRA", "CRISTIANO", "RONALDO", "THEBEST",
+            "MRCHAMPIONS", "MADRID", "MBAPPE", "HALAND", "BELLINGAN"
     };
 
     // ---------- Lector compartido por todo el programa ----------
